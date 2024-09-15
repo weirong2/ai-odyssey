@@ -1,0 +1,2 @@
+# AI Odyssey
+This is name was given by both llama3.1 and llama3 as the first suggestion, so I choose it. qwan2's first suggested name was "Code Your Path to AI Mastery", not bad but seems "AI Odyssey" is better.
