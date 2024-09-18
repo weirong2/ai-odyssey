@@ -8,8 +8,8 @@ mindmap
     Theories
       Fundamentals
         ❎ Mathematics
-        ❎ Programming Skills
-        ✅ Data Science
+        🔳 Programming Skills
+        🔳 Data Science
       Fields
         Machine Learning
           Supervised Learning
@@ -23,12 +23,12 @@ mindmap
       Use Cases
         ✅ Prediction / Classification
         ✅ Clustering
-        ✅ Dimensional Reduction
-        ✅ Recommendation
-        ✅ Autonomous Driving
-        Private Knowledge Base
-        AIGC
-        AI Agent
+        🔳 Dimensional Reduction
+        🔳 Recommendation
+        🔳 Autonomous Driving
+        🔳 Private Knowledge Base
+        🔳 AIGC
+        🔳 AI Agent
       Engineering
         Tooling
         Selection and Evaluation
@@ -40,18 +40,7 @@ mindmap
 
 emoji:
 
-#️⃣
-*️⃣
-0️⃣
-1️⃣
-2️⃣
-3️⃣
-4️⃣
-5️⃣
-6️⃣
-7️⃣
-8️⃣
-9️⃣
-🔟
-✅
-❎
+#️⃣*️⃣
+0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟
+✅❎🔳
+     

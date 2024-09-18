@@ -1,6 +1,6 @@
 Here's an example of how AI is being used for clustering:
 
-#dataScience #featureEngineering #K-Means #HCLUST
+#dataScience #featureEngineering #K-Means #HCLUST #unsupervisedLearning
 
 **Example:**
 

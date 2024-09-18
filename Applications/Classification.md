@@ -1,6 +1,6 @@
 Here's an example of how AI is being used for classification:
 
-#dataScience #CNN #SVM #randomForest #unsupervisedLearning
+#dataScience #CNN #SVM #randomForest #supervisedLearning
 
 **Example:**
 
