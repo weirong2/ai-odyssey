@@ -17,7 +17,8 @@ mindmap
           Deep Learning
         Natural Language Processing
         Computer Vision
-        Large Model
+        GenAI
+        Agentic AI
     Applications
       Use Cases
         ✅ Prediction / Classification
@@ -27,6 +28,7 @@ mindmap
         ✅ Autonomous Driving
         Private Knowledge Base
         AIGC
+        AI Agent
       Engineering
         Tooling
         Selection and Evaluation
