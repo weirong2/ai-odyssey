@@ -1,6 +1,6 @@
 Here's an example of how AI is being used for autonomous driving:
 
-#YOLO #SSD #LSTM #GRU
+#CV #YOLO #SSD #LSTM #GRU
 
 **Example:**
 
