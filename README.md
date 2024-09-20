@@ -1,7 +1,7 @@
 # AI Odyssey
 This is name was given by both llama3.1 and llama3 as the first suggestion, so I choose it. qwen2's first suggested name was "Code Your Path to AI Mastery", not bad but seems "AI Odyssey" is better.
 
-# Mindmap
+## Mindmap
 ```mermaid
 mindmap
   root((AI))
@@ -37,9 +37,12 @@ mindmap
       ❎ Ethics and Society
 ```
 
+## Application
+- [Prediction](./Applications/Prediction.md) / [Classification](./Applications/Classification.md)
+- [Clustering](./Applications/Clustering.md)
+
 
 emoji:
-
 #️⃣*️⃣
 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟
 ✅❎🔳

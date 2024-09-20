@@ -1,4 +1,4 @@
-# YOLO
+# YOLO (You Only Look Once)
 
 #CV #YOLO #CNN
 
@@ -8,7 +8,7 @@
 ## Architecture
 ![YOLO-Full-Model-Archiecture](./images/YOLO-Full-Model-Architecture.png)
 
-## Youtube
+## Resource
 - [How YOLO Object Detection Works](https://www.youtube.com/watch?v=svn9-xV7wjk&t=170s)
 ![YOLO-In-Summary](./images/YOLO-In-Summary.png)
 - [What is YOLO algorithm? | Deep Learning Tutorial 31 (Tensorflow, Keras & Python)](https://www.youtube.com/watch?v=ag3DLKsl2vk)
