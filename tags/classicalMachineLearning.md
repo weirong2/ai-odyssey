@@ -6,8 +6,10 @@
 ![classicalML_applications](./images/classicalML_applications.png)
 
 ## Supervised Learning
+![unsupervisedLearning](./images/supervisedLearning.gif)
 
 ## Unsupervised Learning
+![supervisedLearning](./images/unsupervisedLearning.gif)
 
 ### Semi Supervised Learning
 - pseudo-labeling
