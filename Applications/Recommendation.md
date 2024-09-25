@@ -1,6 +1,6 @@
 Here's an example of how AI is being used for recommendation:
 
-#collaborativeFiltering #dataScience #featureEngineering
+#collaborativeFiltering #dataScience #featureEngineering #SVD #NMF
 
 **Example:**
 

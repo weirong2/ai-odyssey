@@ -1,6 +1,6 @@
 Here's an example of how AI is being used for dimensional reduction:
 
-#dataScience #featureEngineering #RFE #PCA #t-SNE
+#dataScience #featureEngineering #RFE #PCA #t-SNE #unsupervisedLearning
 
 **Example:**
 

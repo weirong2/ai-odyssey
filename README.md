@@ -37,9 +37,12 @@ mindmap
       ❎ Ethics and Society
 ```
 
-## Application
+## Applications
 - [Prediction](./Applications/Prediction.md) / [Classification](./Applications/Classification.md)
 - [Clustering](./Applications/Clustering.md)
+
+## Tags
+- [Classical Machine Learning](./tags/classicalMachineLearning.md)
 
 
 emoji:
