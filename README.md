@@ -23,9 +23,9 @@ mindmap
       Use Cases
         ✅ Prediction / Classification
         ✅ Clustering
-        🔳 Dimensional Reduction
-        🔳 Recommendation
-        🔳 Autonomous Driving
+        ✅ Dimensional Reduction
+        ✅ Recommendation
+        ✅ Autonomous Driving
         🔳 Private Knowledge Base
         🔳 AIGC
         🔳 AI Agent

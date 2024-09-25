@@ -16,6 +16,8 @@
 
 ## Knowledge Points
 - labeled vs. unlabeled data
-![classicalML_dataset](./images/classicalML_dataset.png)
+
+    ![classicalML_dataset](./images/classicalML_dataset.png)
 - under fitting vs. over fitting
-![classicalML_uderfitting_overfitting](./images/classicalML_uderfitting_overfitting.png)
+
+    ![classicalML_uderfitting_overfitting](./images/classicalML_uderfitting_overfitting.png)
