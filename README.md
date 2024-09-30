@@ -15,10 +15,10 @@ mindmap
           Supervised Learning
           Unsupervised Learning
           Deep Learning
+            LLM
         Natural Language Processing
+          GenAI
         Computer Vision
-        GenAI
-        Agentic AI
     Applications
       Use Cases
         ✅ Prediction / Classification
@@ -26,9 +26,9 @@ mindmap
         ✅ Dimensional Reduction
         ✅ Recommendation
         ✅ Autonomous Driving
+        🔳 Virtual Character
+          🔳 Virtual Sales
         🔳 Private Knowledge Base
-        🔳 AIGC
-        🔳 AI Agent
       Engineering
         Tooling
         Selection and Evaluation
