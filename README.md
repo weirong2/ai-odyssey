@@ -28,7 +28,8 @@ mindmap
         ✅ Autonomous Driving
         🔳 Virtual Character
           🔳 Virtual Sales
-        🔳 Private Knowledge Base
+        🔳 Private Knowledge Base: Demo
+        🔳 Image generation: Demo
       Engineering
         Tooling
         Selection and Evaluation
