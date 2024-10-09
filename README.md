@@ -11,14 +11,14 @@ mindmap
         🔳 Programming Skills
         🔳 Data Science
       Fields
-        Machine Learning
-          Supervised Learning
-          Unsupervised Learning
-          Deep Learning
-            LLM
-        Natural Language Processing
-          GenAI
-        Computer Vision
+        🔳 Machine Learning
+          🔳 Supervised Learning
+          🔳 Unsupervised Learning
+          🔳 Deep Learning
+            🔳 LLM
+        🔳 Natural Language Processing
+          🔳 GenAI
+        🔳 Computer Vision
     Applications
       Use Cases
         ✅ Prediction / Classification
@@ -41,6 +41,9 @@ mindmap
 ## Applications
 - [Prediction](./Applications/Prediction.md) / [Classification](./Applications/Classification.md)
 - [Clustering](./Applications/Clustering.md)
+- [Dimensional Reduction](./Applications/DimensionalReduction.md)
+- [Recommendation](./Applications/Recommendation.md)
+- [Autonomous Driving](./Applications/AutomomousDriving.md)
 
 ## Tags
 - [Classical Machine Learning](./tags/classicalMachineLearning.md)
