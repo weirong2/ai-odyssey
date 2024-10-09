@@ -12,8 +12,8 @@ mindmap
         🔳 Data Science
       Fields
         🔳 Machine Learning
-          🔳 Supervised Learning
-          🔳 Unsupervised Learning
+          ✅ Supervised Learning
+          ✅ Unsupervised Learning
           🔳 Deep Learning
             🔳 LLM
         🔳 Natural Language Processing
@@ -26,8 +26,8 @@ mindmap
         ✅ Dimensional Reduction
         ✅ Recommendation
         ✅ Autonomous Driving
-        🔳 Virtual Character
-          🔳 Virtual Sales
+        ✅ Virtual Character
+          ✅ Virtual Sales
         🔳 Private Knowledge Base: Demo
         🔳 Image generation: Demo
       Engineering
@@ -53,4 +53,3 @@ emoji:
 #️⃣*️⃣
 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟
 ✅❎🔳
-     
