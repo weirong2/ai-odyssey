@@ -49,6 +49,7 @@ mindmap
 
 ## Tags
 - [Classical Machine Learning](./tags/classicalMachineLearning.md)
+- [Deep Learning](./tags/deepLearning.md)
 
 
 emoji:
