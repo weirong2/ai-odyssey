@@ -8,14 +8,14 @@ mindmap
     Theories
       Fundamentals
         ❎ Mathematics
-        🔳 Programming Skills
-        🔳 Data Science
+        ❎ Programming Skills
+        ❎ Data Science
       Fields
-        🔳 Machine Learning
+        ✅ Machine Learning
           ✅ Supervised Learning
           ✅ Unsupervised Learning
-          🔳 Deep Learning
-            🔳 LLM
+          ✅ Deep Learning
+            ✅ LLM
         🔳 Natural Language Processing
           🔳 GenAI
         🔳 Computer Vision
@@ -53,6 +53,5 @@ mindmap
 
 
 emoji:
-#️⃣*️⃣
-0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟
+*️⃣0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟
 ✅❎🔳
