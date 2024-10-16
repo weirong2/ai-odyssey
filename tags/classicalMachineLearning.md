@@ -22,4 +22,4 @@
     ![classicalML_dataset](./images/classicalML_dataset.png)
 - under fitting vs. over fitting
 
-    ![classicalML_uderfitting_overfitting](./images/classicalML_uderfitting_overfitting.png)
+    ![classicalML_underfitting_overfitting](./images/classicalML_underfitting_overfitting.png)

@@ -28,8 +28,8 @@ mindmap
         ✅ Autonomous Driving
         ✅ Virtual Character
           ✅ Virtual Sales
-        🔳 Private Knowledge Base: Demo
-        🔳 Image generation: Demo
+        🔳 Private Knowledge Base
+        🔳 Image generation
       Engineering
         Tooling
         Selection and Evaluation
@@ -44,6 +44,8 @@ mindmap
 - [Dimensional Reduction](./Applications/DimensionalReduction.md)
 - [Recommendation](./Applications/Recommendation.md)
 - [Autonomous Driving](./Applications/AutomomousDriving.md)
+- [Virtual Character](./Applications/virtualCharacters.md)
+  - [Virtual Sales](./Applications/virtualSales.md)
 
 ## Tags
 - [Classical Machine Learning](./tags/classicalMachineLearning.md)
