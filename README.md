@@ -16,8 +16,8 @@ mindmap
           ✅ Unsupervised Learning
           ✅ Deep Learning
             ✅ LLM
-        🔳 Natural Language Processing
-          🔳 GenAI
+        ✅ Natural Language Processing
+          ✅ GenAI
         🔳 Computer Vision
     Applications
       Use Cases
