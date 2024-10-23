@@ -50,6 +50,9 @@ mindmap
 ## Tags
 - [Classical Machine Learning](./tags/classicalMachineLearning.md)
 - [Deep Learning](./tags/deepLearning.md)
+  - [LLM](./tags/llm.md)
+- [Natural Language Processing](./tags/naturalLanguageProcessing.md)
+  - [GenAI](./tags/genAI.md)
 
 
 emoji:
