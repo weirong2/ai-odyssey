@@ -53,6 +53,7 @@ mindmap
   - [LLM](./tags/llm.md)
 - [Natural Language Processing](./tags/naturalLanguageProcessing.md)
   - [GenAI](./tags/genAI.md)
+- [Computer Vision](./tags/computerVision.md)
 
 
 emoji:
