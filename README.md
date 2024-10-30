@@ -18,7 +18,7 @@ mindmap
             ✅ LLM
         ✅ Natural Language Processing
           ✅ GenAI
-        🔳 Computer Vision
+        ✅ Computer Vision
     Applications
       Use Cases
         ✅ Prediction / Classification
@@ -28,7 +28,7 @@ mindmap
         ✅ Autonomous Driving
         ✅ Virtual Character
           ✅ Virtual Sales
-        🔳 Private Knowledge Base
+        ✅ Private Knowledge Base: RAG Demo
         🔳 Image generation
       Engineering
         Tooling
